@@ -1,0 +1,22 @@
+{
+  "name": "show-your-team",
+  "version": "1.0.0",
+  "description": "A team profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaguirre7/show-your-team.git"
+  },
+  "author": "Abraham Aguirre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaguirre7/show-your-team/issues"
+  },
+  "homepage": "https://github.com/aaguirre7/show-your-team#readme"
+}

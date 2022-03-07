@@ -13,7 +13,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/aaguirre7/show-your-team">
-        <img src="./assets/images/logo.jpg" alt="logo">
+        <img src="./assets/images/logo.png" alt="logo">
     <a/>
     <h3 align="center">
         A Team Profile Generator

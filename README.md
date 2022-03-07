@@ -137,6 +137,6 @@ Project Link: [https://github.com/aaguirre7/show-your-team](https://github.com/a
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/abraham-aguirre-1b237293/
-[product-screenshot1]: ./assets/images/screenshot_1.png
-[product-screenshot2]: ./assets/images/screenshot_2.png
+[product-screenshot1]: ./assets/images/screenshot_1.PNG
+[product-screenshot2]: ./assets/images/screenshot_2.PNG
 

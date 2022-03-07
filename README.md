@@ -117,6 +117,7 @@ The new team profile will be sotred in the dist folder and you can copy it to yo
 
 ### Video of Usage
 
+![2022-03-06 23-18-23](https://user-images.githubusercontent.com/95892904/156970112-c6eb0abe-d59f-4e70-81de-713adc4d7d72.gif)
 
 
 
